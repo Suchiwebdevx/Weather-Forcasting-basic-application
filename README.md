@@ -72,20 +72,6 @@ Note: API keys should not be committed directly to a public GitHub repository. U
 
 The application provides a simple interface where users can enter a city name and retrieve its current weather information.
 
-Example:
-
-┌─────────────────────────────────┐
-│       🌤️ Weather Application    │
-│                                 │
-│  [ Enter City Name ] [ Search ] │
-│                                 │
-│          Mumbai                 │
-│           28°C                  │
-│        Clear Sky                │
-│                                 │
-│  💧 Humidity: 65%               │
-│  💨 Wind: 12 km/h               │
-└─────────────────────────────────┘
 📂 Project Structure
 WeatherApplication
 │
@@ -168,3 +154,5 @@ This project was developed for educational and portfolio purposes.
 🌤️ Weather Application
 
 Search a city. Check the weather. Stay informed.
+
+
