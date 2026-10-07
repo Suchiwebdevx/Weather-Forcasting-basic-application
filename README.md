@@ -98,11 +98,6 @@ WeatherApplication
 │   └── ...
 └── README.md
 ▶️ How to Run the Project
-1. Clone the Repository
-git clone https://github.com/YOUR-USERNAME/WeatherApplication.git
-2. Open the Project
-
-Open the project folder in Visual Studio Code or any preferred code editor.
 
 3. Configure the API
 
