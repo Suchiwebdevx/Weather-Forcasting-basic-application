@@ -29,8 +29,6 @@ Add your Weather Application screenshot here.
 
 ## 👩‍💻 Developer
 
-**Suchi**
-
 GitHub: [SuchiWebdevx](https://github.com/SuchiWebdevx)
 
 ---
